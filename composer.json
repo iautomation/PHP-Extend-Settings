@@ -1,0 +1,19 @@
+{
+    "name": "iautomation/extend-settings",
+    "description": "",
+    "keywords": ["php", "dynamic", "extend", "abstract", "static", "settings", "visibility"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua McKenzie",
+            "email": "whereyoucanemailme@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": {
+            "ExtendSettings\\": "src/"
+        }
+    }
+}
